@@ -86,7 +86,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 11,
-    img: 'Images/chicken/Chicken_roast.jpg',
+    img: 'Images/Chicken/Chicken_roast.jpg',
     quantity: 1
 },
 {
@@ -95,7 +95,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 10,
-    img: 'Images/chicken/Chicken-Curry.jpg',
+    img: 'Images/Chicken/Chicken-Curry.jpg',
     quantity: 1
 },
 {
@@ -104,7 +104,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 14,
-    img: 'Images/chicken/Chicken-do-Pyaza.jpg',
+    img: 'Images/Chicken/Chicken-do-Pyaza.jpg',
     quantity: 1
 },
 {
@@ -113,7 +113,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 12,
-    img: 'Images/chicken/Chicken-Masala.jpeg',
+    img: 'Images/Chicken/Chicken-Masala.jpeg',
     quantity: 1
 },
 {
@@ -122,7 +122,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 17,
-    img: 'Images/chicken/Handi-chicken.jpg',
+    img: 'Images/Chicken/Handi-chicken.jpg',
     quantity: 1
 },
 {
@@ -131,7 +131,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 20,
-    img: 'Images/chicken/Murgh-Musallam.jpg',
+    img: 'Images/Chicken/Murgh-Musallam.jpg',
     quantity: 1
 },
 {
